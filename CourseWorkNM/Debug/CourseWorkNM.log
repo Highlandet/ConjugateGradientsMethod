@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\keren\source\repos\CourseWorkNM\CourseWorkNM\Source.cpp(25,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\keren\source\repos\CourseWorkNM\CourseWorkNM\Source.cpp(32,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\keren\source\repos\CourseWorkNM\CourseWorkNM\Source.cpp(40,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\keren\source\repos\CourseWorkNM\CourseWorkNM\Source.cpp(86,4): warning C4804: *=: небезопасное использование типа "bool" в операции
+C:\Users\keren\source\repos\CourseWorkNM\CourseWorkNM\Source.cpp(89,4): warning C4804: *=: небезопасное использование типа "bool" в операции
+  CourseWorkNM.vcxproj -> C:\Users\keren\source\repos\CourseWorkNM\Debug\CourseWorkNM.exe
